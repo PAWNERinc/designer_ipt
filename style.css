@@ -99,6 +99,11 @@ body {
   margin: 0 0 32px;
 }
 
+.skills {
+  max-width: 928px;
+  margin: 0 auto;
+}
+
 .skills-list {
   margin: 0;
   padding: 0;
@@ -110,12 +115,16 @@ body {
   background-position: left;
 }
 
-.skill-html {
-  background-image: url("img/icon-html.svg");
+.skill-photoshop {
+  background-image: url("img/icon-photoshop.png");
 }
 
-.skill-css {
-  background-image: url("img/icon-css.svg");
+.skill-3dsmax {
+  background-image: url("img/icon-3dsmax.png");
+}
+
+.skill-autocad {
+  background-image: url("img/icon-autocad.png");
 }
 
 .level {
